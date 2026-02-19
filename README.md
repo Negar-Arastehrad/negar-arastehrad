@@ -26,6 +26,11 @@ A frontend developer who turns ideas into interfaces<br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=negar-arastehrad&theme=catppuccin_mocha&hide_border=true)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=negar-arastehrad&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/negar-arastehrad/negar-arastehrad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/negar-arastehrad/negar-arastehrad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/negar-arastehrad/negar-arastehrad/output/pacman-contribution-graph.svg">
+</picture>
+
