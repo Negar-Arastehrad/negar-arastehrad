@@ -4,7 +4,7 @@ Hi 👋, I'm Negar<br>
 A frontend developer who turns ideas into interfaces<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/negar-arastehrad/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negar-arastehrad/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.arasterad@gmail.com)<br><br>
 
 # 💻 Tech Stack:
