@@ -1,7 +1,9 @@
 <div align="center">
 
 Hi 👋, I'm Negar<br>
-A frontend developer who turns ideas into interfaces<br><br>
+A frontend developer who turns ideas into interfaces<br>
+MSc in Computer Engineering 🎓<br><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/negar-arastehrad/) 
